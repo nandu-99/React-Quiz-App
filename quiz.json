@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which of the following is the correct name of React.js?",
+        "options": [
+            "React",
+            "React.js",
+            "ReactJS",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": "02",
+        "question" : "What does JSX stand for in React?",
+        "options": [
+            "JavaScript XML",
+            "JavaScript Syntax Extension",
+            "Java Standard Extension",
+            "None of the above"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": "03",
+        "question" : "Which method is used to change the state in React?",
+        "options": [
+            "setState()",
+            "changeState()",
+            "modifyState()",
+            "updateState()"
+        ],
+        "answer": "setState()"
+    },
+    {
+        "id": "04",
+        "question" : "What is the virtual DOM in React?",
+        "options": [
+            "A lightweight version of the actual DOM",
+            "A JavaScript object that represents the UI",
+            "A technique to optimize rendering performance",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": "05",
+        "question" : "What is a prop in React?",
+        "options": [
+            "A property of a component",
+            "A function passed between components",
+            "A way to style components",
+            "None of the above"
+        ],
+        "answer": "A property of a component"
+    },
+    {
+        "id": "06",
+        "question" : "What is the purpose of Redux in React applications?",
+        "options": [
+            "To manage the state of components",
+            "To create reusable UI components",
+            "To handle asynchronous operations",
+            "To provide a predictable state container"
+        ],
+        "answer": "To provide a predictable state container"
+    },
+    {
+        "id": "07",
+        "question" : "What is the role of ReactDOM in React?",
+        "options": [
+            "To manipulate the DOM directly",
+            "To render React components into the DOM",
+            "To handle routing in React applications",
+            "To manage the application state"
+        ],
+        "answer": "To render React components into the DOM"
+    },
+    {
+        "id": "08",
+        "question" : "What is a higher-order component (HOC) in React?",
+        "options": [
+            "A component with a higher index in the component tree",
+            "A component that renders other components",
+            "A function that takes a component and returns a new component",
+            "A component with advanced state management capabilities"
+        ],
+        "answer": "A function that takes a component and returns a new component"
+    },
+    {
+        "id": "09",
+        "question" : "What is the purpose of the useEffect hook in React?",
+        "options": [
+            "To handle side effects in functional components",
+            "To manage component state",
+            "To create reusable custom hooks",
+            "To handle form submissions"
+        ],
+        "answer": "To handle side effects in functional components"
+    },
+    {
+        "id": "10",
+        "question" : "What is the purpose of the key prop in React lists?",
+        "options": [
+            "To identify elements in a list uniquely",
+            "To style elements in a list",
+            "To define the order of elements in a list",
+            "To filter elements in a list"
+        ],
+        "answer": "To identify elements in a list uniquely"
+    }
+]
